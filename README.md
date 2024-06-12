@@ -1,3 +1,16 @@
+# 🔎 About Me:
+- Computer Science Student at Liberty Unviversity studying Computer Science
+- Concentrations are in Software Engineering, Data Science, and Web & Mobile Programming
+- Graduating spring 2027
+
+# 🚀 I’m currently working on: 
+- fullstack web development
+
+# 📕 I’m currently learning
+- advanced react concepts/data science with python
+
+# 📫 How to reach me: 
+- eatong13@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabeeaton ) 
