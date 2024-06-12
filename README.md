@@ -1,5 +1,5 @@
 # 🔎 About Me:
-- Computer Science Student at Liberty Unviversity studying Computer Science
+- Computer Science Student at Liberty Unviversity
 - Concentrations are in Software Engineering, Data Science, and Web & Mobile Programming
 - Graduating spring 2027
 
