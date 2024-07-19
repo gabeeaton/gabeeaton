@@ -7,7 +7,7 @@
 - fullstack web development
 
 # 📕 I’m currently learning
-- advanced react concepts/data science with python
+- DSA/Leetcode
 
 # 📫 How to reach me: 
 - eatong13@gmail.com
