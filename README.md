@@ -7,7 +7,7 @@
 - fullstack web development
 
 # 📕 I’m currently learning
-- DSA/Leetcode
+- DSA/Leetcode, Data Science/ML
 
 # 📫 How to reach me: 
 - eatong13@gmail.com
