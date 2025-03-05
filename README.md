@@ -1,6 +1,5 @@
 # 🔎 About Me:
 - Computer Science Student at Liberty Unviversity
-- Concentrations are in Software Engineering, Data Science, and Web & Mobile Programming
 - Graduating Spring 2026
 
 # 🚀 I’m currently working on: 
