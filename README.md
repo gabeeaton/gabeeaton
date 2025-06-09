@@ -1,6 +1,6 @@
 # 🔎 About Me:
 - Computer Science Student at Liberty Unviversity
-- Graduating Spring 2026
+- Graduating Spring 2027
 
 # 🚀 I’m currently working on: 
 - fullstack development
