@@ -3,10 +3,10 @@
 - Graduating Spring 2026
 
 # 🚀 I’m currently working on: 
-- fullstack web development
+- fullstack development
 
 # 📕 I’m currently learning
-- DSA/Leetcode, Data Science/ML
+- DSA
 
 # 📫 How to reach me: 
 - eatong13@gmail.com
