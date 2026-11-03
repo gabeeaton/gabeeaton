@@ -4,7 +4,7 @@ Computer science student at Liberty University, graduating spring 2027. I build 
 
 ## Featured project
 
-**[Vantra](https://github.com/gabeeaton/Vantra)** — observability for AI agents. I built Python and TypeScript SDKs, trace ingestion, a Next.js dashboard, cost tracking, alerts, and billing. [Live app](https://vantra.dev)
+**Vantra** — observability for AI agents. I built Python and TypeScript SDKs, trace ingestion, a Next.js dashboard, cost tracking, alerts, and billing. [See the live app](https://vantra.dev)
 
 ## What I work with
 
