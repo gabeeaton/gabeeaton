@@ -8,9 +8,10 @@ Computer science student at Liberty University, graduating spring 2027. I build 
 
 ## What I work with
 
-TypeScript · React · Next.js · Python · Node.js · PostgreSQL · Supabase · Stripe
-
-I enjoy turning an idea into a working product, from the SDK and API through the interface and deployment.
+**Languages**: Java, Python, TypeScript, JavaScript, SQL, C#, C++
+**Frameworks**: Spring Boot, Micronaut, .NET, FastAPI, React, Next.js, React Native, Node.js
+**Tools & Data**: Kafka, PostgreSQL, MongoDB, Supabase, Firebase, Git, GitHub
+**Cloud & DevOps**: AWS (S3, EC2, Lambda), Docker, Kubernetes, Terraform
 
 ## Connect
 
