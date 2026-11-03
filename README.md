@@ -6,12 +6,12 @@ Computer science student at Liberty University, graduating spring 2027. I build 
 
 **Vantra** — observability for AI agents. I built Python and TypeScript SDKs, trace ingestion, a Next.js dashboard, cost tracking, alerts, and billing. [See the live app](https://vantra.dev)
 
-## What I work with
+## Tech stack
 
-**Languages**: Java, Python, TypeScript, JavaScript, SQL, C#, C++
-**Frameworks**: Spring Boot, Micronaut, .NET, FastAPI, React, Next.js, React Native, Node.js
-**Tools & Data**: Kafka, PostgreSQL, MongoDB, Supabase, Firebase, Git, GitHub
-**Cloud & DevOps**: AWS (S3, EC2, Lambda), Docker, Kubernetes, Terraform
+- **Languages:** Java, Python, TypeScript, JavaScript, SQL, C#, C++
+- **Frameworks:** Spring Boot, Micronaut, .NET, FastAPI, React, Next.js, React Native, Node.js
+- **Tools & Data:** Kafka, PostgreSQL, MongoDB, Supabase, Firebase, Git, GitHub
+- **Cloud & DevOps:** AWS (S3, EC2, Lambda), Docker, Kubernetes, Terraform
 
 ## Connect
 
